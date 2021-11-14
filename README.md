@@ -5,15 +5,16 @@
         <title>Challenge: Great big font sizes</title>
         <style>
         .titles{
-        color:rgb ();
-        font-family:"Irish Grover", ;
-        font: 2px "Irish Grover", "Architects Daughter", sans-serif;}
+        color:rgb (2, 39, 53);
+        font-family: "Bitter", fantasy, sans ;
+        
+            }
           
         </style>
     </head>
     <body>
-<h1 class="titles"> Welcome! </h1>
-<p> </p>
+<h2 class="titles">Chapter One</h2>
+<p class="Chapter-One-Par">     </p>
 
     </body>
 </html>
